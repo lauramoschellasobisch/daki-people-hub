@@ -1,0 +1,8 @@
+{
+  "name": "daki-people-hub",
+  "version": "1.0.0",
+  "description": "People Intelligence Hub — Daki HRBP",
+  "dependencies": {
+    "@anthropic-ai/sdk": "^0.27.0"
+  }
+}
